@@ -1,2 +1,2 @@
-# Arya-s-List
-recite remember revenge
+# Arya's List
+Recite Remember Revenge
